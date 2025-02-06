@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoriTabaku.
+- 👋 Hi, my name is Dorisa Tabaku @DoriTabaku.
 - 👀 I’m interested in data science, machine learning, AI, and data analytics.
 - 🌱 I am currently learning about time series analysis as it applies to the stock market.
 - 💞️ I’m looking to collaborate on various projects.
